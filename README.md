@@ -1,14 +1,23 @@
 This is MVC web application, build by using Spring.
 
 Brief description of the Project :
+
 4 Class file 
+
     1. KeyService.java (Bean Class)
+    
        Contains the logic for controller, Loads Data from CSV on startup
+       
     2. Controller (HelloController.Java)
+    
        responsible for controlling the flow of the application
+       
     3. KeyModel.Java
+    
        Responsible for managing the data of the application
+       
     4. CSVReader.java
+    
        Responsible for loading data from a CSV file.
  
  
