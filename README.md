@@ -41,5 +41,8 @@ How to run application :
 4. Hit API : http://localhost:8080/SpringMVC/{KeyId}
 
 or deploy war file on apache tomcat and hit API.
+
+I have also hosted application on a goole cloud server : http://35.200.252.80/SpringMVC/two
+
    
        
